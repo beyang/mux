@@ -1,5 +1,0 @@
-
-
-Here is an image:
-
-
