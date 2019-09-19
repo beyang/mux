@@ -12,6 +12,9 @@ import (
 	"strings"
 )
 
+// Ex:
+//    "current" is prefix appended to "<sandbox>/.tmp_secrets/current"
+
 // Route stores information to match a request and build URLs.
 type Route struct {
 	// Parent where the route was registered (a Router).
